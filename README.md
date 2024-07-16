@@ -7,7 +7,15 @@ This repository contains the code, data, and results for the paper "AI Discovery
 TxGraffiti is an AI conjecturing program that generates mathematical conjectures using a combination of machine learning techniques and heuristics. This repository provides the implementation of TxGraffiti, along with datasets and Jupyter notebooks demonstrating its application across various mathematical domains.
 
 ## Repository Structure
+
 - `notebooks/`: Contains Jupyter notebooks for running the TxGraffiti algorithm on different types of data.
+  - [`integers.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/integers.ipynb): Demonstrates conjectures on integer data.
+  - [`matrices.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/matrices.ipynb): Demonstrates conjectures on symmetric matrices.
+  - [`scale_free_graphs.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/scale_free_graphs.ipynb): Demonstrates conjectures on scale-free graphs.
+  - [`breast_cancer.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/breast_cancer.ipynb): Demonstrates conjectures on the breast cancer dataset.
+  - [`sequences.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/sequences.ipynb): Demonstrates conjectures on sequence data.
+  - [`wine_data.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/wine_data.ipynb): Demonstrates conjectures on wine quality data.
+  - [`karate_club_graph.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/karate_club_graph.ipynb): Demonstrates TxGraffiti conjecturing on a single mathematical object.
 - `LICENSE`: License for the code.
 - `README.md`: This file.
 - `requirements.txt`: List of dependencies.

@@ -30,6 +30,10 @@ This directory contains a collection of Jupyter notebooks that demonstrate the c
    - **Description**: Uses TxGraffiti to generate conjectures on the wine quality dataset. Studies the relationships between different chemical properties and wine quality.
    - **Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/wine_data.ipynb)
 
+7. **[Karate Club Graph](karate_club_graph.ipynb)
+  - **Description**: Uses TxGraffiti to conjecture node properties of the famous karate club graph.
+   - **Colab**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/karate_club_graph.ipynb)
+
 ## Instructions
 
 1. **Opening Notebooks in Colab**:
