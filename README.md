@@ -1,7 +1,5 @@
 # AI-discovery-in-mathematics-with-TxGraffiti
 
-# AI Discovery in Mathematics with TxGraffiti
-
 This repository contains the code, data, and results for the paper "AI Discovery in Mathematics with TxGraffiti".
 
 ## Overview
