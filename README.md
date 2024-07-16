@@ -7,7 +7,7 @@ This repository contains the code, data, and results for the paper "AI Discovery
 TxGraffiti is an AI conjecturing program that generates mathematical conjectures using a combination of machine learning techniques and heuristics. This repository provides the implementation of TxGraffiti, along with datasets and Jupyter notebooks demonstrating its application across various mathematical domains.
 
 ## Repository Structure
-- `notebooks/`: Contains Jupyter notebooks for running TxGraffiti on different datasets.
+- `notebooks/`: Contains Jupyter notebooks for running the TxGraffiti algorithm on different types of data.
 - `LICENSE`: License for the code.
 - `README.md`: This file.
 - `requirements.txt`: List of dependencies.
