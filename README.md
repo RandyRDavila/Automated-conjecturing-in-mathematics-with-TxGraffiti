@@ -1,6 +1,6 @@
-# AI-discovery-in-mathematics-with-TxGraffiti
+# Automated-conjecturing-in-mathematics-with-TxGraffiti
 
-This repository contains the code, data, and results for the paper "AI Discovery in Mathematics with TxGraffiti".
+This repository contains the code, data, and results for the paper "Automated conjecturing in Mathematics with TxGraffiti".
 
 ## Overview
 
@@ -13,7 +13,6 @@ TxGraffiti is an AI conjecturing program that generates mathematical conjectures
   - [`matrices.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/matrices.ipynb): Demonstrates conjectures on symmetric matrices.
   - [`scale_free_graphs.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/scale_free_graphs.ipynb): Demonstrates conjectures on scale-free graphs.
   - [`breast_cancer.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/breast_cancer.ipynb): Demonstrates conjectures on the breast cancer dataset.
-  - [`sequences.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/sequences.ipynb): Demonstrates conjectures on sequence data.
   - [`wine_data.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/wine_data.ipynb): Demonstrates conjectures on wine quality data.
   - [`karate_club_graph.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/karate_club_graph.ipynb): Demonstrates TxGraffiti conjecturing on a single mathematical object.
 - `LICENSE`: License for the code.
@@ -26,8 +25,8 @@ To install the required dependencies, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/randyrdavila/AI-discovery-in-mathematics-with-TxGraffiti.git
-   cd AI-discovery-in-mathematics-with-TxGraffiti
+   git clone https://github.com/RandyRDavila/Automated-conjecturing-in-mathematics-with-TxGraffiti.git
+   cd Automated-conjecturing-in-mathematics-with-TxGraffiti
    ```
 
 2. **Create and Activate Virtual Environment:**
