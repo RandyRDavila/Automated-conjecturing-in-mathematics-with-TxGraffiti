@@ -9,6 +9,7 @@ TxGraffiti is an AI conjecturing program that generates mathematical conjectures
 ## Repository Structure
 
 - `notebooks/`: Contains Jupyter notebooks for running the TxGraffiti algorithm on different types of data.
+  - [`TxGraffiti_Experiment.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/TxGraffiti_Experiment.ipynb) is the notebook associated with Section 3 in the manuscript.
   - [`integers.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/integers.ipynb): Demonstrates conjectures on integer data.
   - [`matrices.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/matrices.ipynb): Demonstrates conjectures on symmetric matrices.
   - [`scale_free_graphs.ipynb`](https://colab.research.google.com/github/RandyRDavila/AI-discovery-in-mathematics-with-TxGraffiti/blob/main/notebooks/scale_free_graphs.ipynb): Demonstrates conjectures on scale-free graphs.
