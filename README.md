@@ -1,4 +1,4 @@
-# Automated-conjecturing-in-mathematics-with-TxGraffiti
+# Automated Conjecturing in Mathematics with TxGraffiti
 
 This repository contains the code, data, and results for the paper "Automated conjecturing in Mathematics with TxGraffiti".
 
